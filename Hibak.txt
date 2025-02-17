@@ -1,0 +1,2 @@
+1. nem mukodott commit 
+2. nem mukodott commit szükséges modulok importálása 
